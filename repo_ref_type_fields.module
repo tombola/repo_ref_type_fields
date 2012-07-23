@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the REF output base fields feature.
+ */
+
+include_once 'repo_ref_type_fields.features.inc';
